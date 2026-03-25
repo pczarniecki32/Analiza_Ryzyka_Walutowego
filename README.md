@@ -3,11 +3,11 @@
 ## 💬 O projekcie
 Zrobiłem ten projekt, żeby w praktyce połączyć Pythona i Power BI na prawdziwych danych finansowych.
 
-Raport odpowiada na pytanie: **„Biorąc pod uwagę to, co działo się na rynku przez ostatnie 30 dni, jak duży spadek kursu może nas jutro zaboleć?”**. 
+Raport odpowiada na pytanie: **„Biorąc pod uwagę to, co działo się na rynku przez ostatnie 30 dni, jak duży spadek kursu może nas jutro spotkać?”**
 
 ## 🛠️ Użyte technologie:
 
-1. **Python (przygotowanie danych):** Użycie bibliotek `pandas`, `numpy` i `yfinance`. Skrypt łączy się z API, pobiera historię kursów walut, a potem wylicza z nich to, co najważniejsze (np. VaR 95% i zmienność). Całość zapisuje do pliku .csv .
+1. **Python (przygotowanie danych):** Użycie bibliotek `pandas`, `numpy` i `yfinance`. Skrypt łączy się z API, pobiera historię kursów walut, a potem wylicza z nich różne wskaźniki (np. VaR 95% i zmienność). Całość zapisuje do pliku .csv .
    
 2. **Power BI (wizualizacja):** Tutaj wczytywane są przetworzone dane. Zbudowałem interaktywny dashboard, w którym suwak daty steruje całym raportem.
 ## 📊 Wykorzystane Metryki Finansowe
