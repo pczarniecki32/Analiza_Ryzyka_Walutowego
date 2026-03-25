@@ -3,7 +3,7 @@
 ## 💬 O projekcie
 Zrobiłem ten projekt, żeby w praktyce połączyć Pythona i Power BI na prawdziwych danych finansowych.
 
-Raport odpowiada na proste pytanie: **„Biorąc pod uwagę to, co działo się na rynku przez ostatnie 30 dni, jak duży spadek kursu może nas jutro zaboleć?”**. 
+Raport odpowiada na pytanie: **„Biorąc pod uwagę to, co działo się na rynku przez ostatnie 30 dni, jak duży spadek kursu może nas jutro zaboleć?”**. 
 
 ## 🛠️ Użyte technologie:
 
